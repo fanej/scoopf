@@ -10,7 +10,7 @@
         ]
     },
     "url":"https://downloads.lightbend.com/scala/2.11.8/scala-2.11.8.zip",
-    "hash": "8500fa15fdd60abcad77f66b214036e7",
+    "hash": "40dc5d92444d6b0e06f751adb4f100faaf8f849be6806c922c88909d8474eefa",
     "extract_dir": "scala-2.11.8",
     "bin": [
         "bin\\fsc.bat",
