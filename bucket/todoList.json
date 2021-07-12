@@ -1,0 +1,14 @@
+{
+    "homepage": "https://todo.evestudio.cn/",
+    "license": "unknown",
+    "version": "3.1.0",
+    "url": "https://updatetodo.evestudio.cn/Todo%E6%B8%85%E5%8D%95%20Setup%203.1.0.exe#/dl.7z",
+    "hash": "a6868671f1d7c19f0a7bf573650ae3a1811327d845530d623b0b4ccb558c2ec3",
+    "post_install": "Remove-Item \"$dir\\`$PLUGINSDIR\",\"$dir\\`$TEMP\" -Recurse",
+    "bin": "Todo清单.exe",
+    "shortcuts": [
+        [
+            "Todo清单.exe"
+        ]
+    ]
+}
